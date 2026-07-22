@@ -1,0 +1,74 @@
+[[NodeJS_24]]
+arch = "aarch64"
+git-tree-sha1 = "875f819cc6ae8e9cf6ce43ee685a29e7e20c59b5"
+os = "macos"
+
+    [[NodeJS_24.download]]
+    sha256 = "6a6cc0f66b547a66ec07c31d99ee80b8644de8a560f54940e38c7bfbdafc5d6f"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_24_jll.jl/releases/download/NodeJS_24-v24.18.0+0/NodeJS_24.v24.18.0.aarch64-apple-darwin.tar.gz"
+[[NodeJS_24]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ee742e1065bda876343711371572d8858b29b0db"
+libc = "glibc"
+os = "linux"
+
+    [[NodeJS_24.download]]
+    sha256 = "fbac023a7a6f7419641eced6a82c25377f722ab5636108383d4ac1627053025e"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_24_jll.jl/releases/download/NodeJS_24-v24.18.0+0/NodeJS_24.v24.18.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[NodeJS_24]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "60dc57f89dad138470d3cb5fdec22a1fc13b5c53"
+libc = "musl"
+os = "linux"
+
+    [[NodeJS_24.download]]
+    sha256 = "883e2686dfa30c61bc0df58c29da2f5e354799d3c903c2a4e70fc37014904752"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_24_jll.jl/releases/download/NodeJS_24-v24.18.0+0/NodeJS_24.v24.18.0.aarch64-linux-musl-cxx11.tar.gz"
+[[NodeJS_24]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f5fb630caef9a75e7a690d75cf5c14a71f0d7dfb"
+libc = "glibc"
+os = "linux"
+
+    [[NodeJS_24.download]]
+    sha256 = "68eae501d9d0d8eb573f63d0be9064b07e3a77a957cd15ba88d23b1c93342631"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_24_jll.jl/releases/download/NodeJS_24-v24.18.0+0/NodeJS_24.v24.18.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[NodeJS_24]]
+arch = "x86_64"
+git-tree-sha1 = "955e20abd37c4e75b943a5d2d170c0a086fa7726"
+os = "macos"
+
+    [[NodeJS_24.download]]
+    sha256 = "e588183205c02dacb32a010a8256088d030f1abcc048ad43be8c33586bf8df60"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_24_jll.jl/releases/download/NodeJS_24-v24.18.0+0/NodeJS_24.v24.18.0.x86_64-apple-darwin.tar.gz"
+[[NodeJS_24]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d21e19aa2f9739312513b943850198f68df1725b"
+libc = "glibc"
+os = "linux"
+
+    [[NodeJS_24.download]]
+    sha256 = "764ad507810fc1c20ff5e54f6d7fd038c9cc0a025f6ea8b4b4a6bfdc8dff1742"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_24_jll.jl/releases/download/NodeJS_24-v24.18.0+0/NodeJS_24.v24.18.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[NodeJS_24]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "002359b9ecdf8d304b06fc071b8d730c8794c2bc"
+libc = "musl"
+os = "linux"
+
+    [[NodeJS_24.download]]
+    sha256 = "8f6a6cc83bbd9af67765a10082b1931c7664cdd9e7280e6d0f301461744db7f4"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_24_jll.jl/releases/download/NodeJS_24-v24.18.0+0/NodeJS_24.v24.18.0.x86_64-linux-musl-cxx11.tar.gz"
+[[NodeJS_24]]
+arch = "x86_64"
+git-tree-sha1 = "02a5afd1b1a78f30fc402aeca139ffcbda016197"
+os = "windows"
+
+    [[NodeJS_24.download]]
+    sha256 = "fe4f0154a7bbd5b6d2ea155b7b6cf2c36c48bcd47c6772cc82de38518d286a0c"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_24_jll.jl/releases/download/NodeJS_24-v24.18.0+0/NodeJS_24.v24.18.0.x86_64-w64-mingw32.tar.gz"
